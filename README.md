@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Fellow developer,
+
+How the Hell did you got stuck up in this place ???
